@@ -1,6 +1,6 @@
 # Megalodons
 ## the history of megalodons
-(https://scitechdaily.com/images/Megalodon-Shark-Concept-Art-Illustration.jpg)
+[megalodon](https://scitechdaily.com/images/Megalodon-Shark-Concept-Art-Illustration.jpg)
 
 list
 - 1
